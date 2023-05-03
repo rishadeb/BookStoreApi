@@ -7,6 +7,6 @@ namespace BookStoreApi.Services
 {
     public class BooksService
     {
-        
+        public int MyProperty { get; set; }
     }
 }
